@@ -1,4 +1,4 @@
-#🌟 Unity Essentials Pathway Projects
+🌟 # Unity Essentials Pathway Projects
 
 This repository contains all the mini-projects and exercises I completed during the Unity Essentials Pathway (56 hours). The pathway provided a strong foundation in 2D, 3D, audio, programming, publishing, and Unity editor essentials.
 
