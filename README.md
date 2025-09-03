@@ -30,8 +30,8 @@ Published and optimized a complete Unity project
 
 ## 🎥 Demo Videos  
 
-- [2D Essentials Gameplay](Docs/Movie_005.mp4)
-- [3D Essentials Demo](Docs/Movie_004-Trim.mp4)  
+- [2D Essentials Gameplay](Movie_005.mp4)
+- [3D Essentials Demo](Movie_004-Trim.mp4)  
 
 
 
